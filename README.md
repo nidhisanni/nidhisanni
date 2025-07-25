@@ -7,7 +7,7 @@ Building small projects to improve and figure things out as I go.
 
 ---
 
-### 🔍 About Me
+###  About Me
 
 - 🎓 B.Tech CSE @ Kaziranga University (Graduating 2026)
 -  Learning Python, Data Analytics, Machine Learning & Generative AI
@@ -15,7 +15,7 @@ Building small projects to improve and figure things out as I go.
 
 ---
 
-### 🛠️ Tools & Technologies I'm Comfortable With
+###  Tools & Technologies I'm Comfortable With
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
@@ -29,22 +29,22 @@ Building small projects to improve and figure things out as I go.
 
 ---
 
-### 📌 Projects
+###  Projects
 
 These are a few small things I’ve worked on to practice what I’m learning:
 
-- 🔢 **YouTube Adview Prediction**  
+-  **YouTube Adview Prediction**  
   Machine Learning regression project to predict ad views using Python and scikit-learn
 
-- 🌦️ **AI Weather Assistant**  
+-  **AI Weather Assistant**  
   Simple chatbot using Streamlit + Gemini API that gives weather updates
 
-- 🛠️ **One Stop Career Solution (WIP)**  
+-  **One Stop Career Solution (WIP)**  
   Final year project combining job recommendations, AI resume tools, and more (under development)
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-nidhisanni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nidhisanni)
 
