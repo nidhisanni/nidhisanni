@@ -1,41 +1,55 @@
-<h1 align="center">Hi 👋, I'm Nidhi Sanni</h1>
-<h3 align="center">Aspiring Software Engineer | B.Tech CSE | Passionate about AI, GenAI, and Full-Stack Development</h3>
+<h2 align="center">Hi, I'm Nidhi 👋</h2>
+
+<p align="center">
+Final Year B.Tech CSE Student | Learning Data Analytics, GenAI & ML<br>
+Building small projects to improve and figure things out as I go.
+</p>
 
 ---
 
-- 🎓 B.Tech in Computer Science & Engineering, Kaziranga University (2026)
-- 💡 Currently working on: `One Stop Career Solution` – a career guidance & AI-powered platform
-- 💼 Recent internship at **Internship Studio** — Built a YouTube Adview Prediction ML model using regression
-- 📚 Learning Generative AI, JavaScript, and DSA (Python) — one step at a time!
-- 🌱 Currently exploring: LangChain, OpenAI APIs, Streamlit, and building GenAI apps
-- 🧠 Always up for solving problems, building cool things, and learning by doing
-- 🧩 Fun fact: I'm a Swiftie 🎶 + a huge fan of self-growth, tech & storytelling!
+### 🔍 About Me
+
+- 🎓 B.Tech CSE @ Kaziranga University (Graduating 2026)
+- 🧪 Learning Python, Data Analytics, Machine Learning & Generative AI
+- 🤝 Recently interned at **Internship Studio**, worked on a project to predict YouTube Ad views using ML models
+- 🧠 Interested in AI tools, automation, and applying what I learn through projects
 
 ---
 
-### 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/-Python-333?&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-333?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?&logo=css3)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333?&logo=streamlit)
-![VS Code](https://img.shields.io/badge/-VSCode-333?&logo=visualstudiocode)
-![GitHub](https://img.shields.io/badge/-GitHub-333?&logo=github)
+### 🛠️ Tools & Technologies I'm Comfortable With
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=plotly)
+![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visualstudiocode)
 
 ---
 
-### 📌 Featured Projects
-- 🎯 [YouTube Adview Prediction](https://github.com/nidhisanni/Youtube_Adview_Prediction) — ML project predicting ad views using regression
-- ☁️ AI Weather Assistant — GenAI chatbot using Streamlit + Gemini API
-- 🚀 [One Stop Career Solution](https://github.com/nidhisanni/One-Stop-Career-Solution) — Career guidance platform powered by AI (WIP)
+### 📌 Projects
+
+These are a few small things I’ve worked on to practice what I’m learning:
+
+- 🔢 [YouTube Adview Prediction](link-here)  
+  Machine Learning regression project to predict ad views using Python and scikit-learn
+
+- 🌦️ [AI Weather Assistant](link-here)  
+  Simple chatbot using Streamlit + Gemini API that gives weather updates
+
+- 🛠️ [One Stop Career Solution (WIP)](link-here)  
+  Final year project combining job recommendations, AI resume tools, and more (under development)
 
 ---
 
-### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhisanni/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername) <!-- Replace with your tech Twitter -->
-[![Wattpad](https://img.shields.io/badge/-Wattpad-FA6F48?style=flat&logo=wattpad&logoColor=white)](https://www.wattpad.com/user/nidhisanni) <!-- Optional -->
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nidhisanni)  
+[Optional: Add Twitter/Wattpad if you want, or skip]
 
 ---
 
-_✨ Thank you for visiting! I’m always open to opportunities, ideas, or just a good tech convo!_
+> 📝 I'm still figuring things out — but I'm trying to be consistent, keep learning, and enjoy the process.
