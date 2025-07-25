@@ -10,9 +10,8 @@ Building small projects to improve and figure things out as I go.
 ### 🔍 About Me
 
 - 🎓 B.Tech CSE @ Kaziranga University (Graduating 2026)
-- 🧪 Learning Python, Data Analytics, Machine Learning & Generative AI
-- 🤝 Recently interned at **Internship Studio**, worked on a project to predict YouTube Ad views using ML models
-- 🧠 Interested in AI tools, automation, and applying what I learn through projects
+-  Learning Python, Data Analytics, Machine Learning & Generative AI
+-  Interested in AI tools, automation, and applying what I learn through projects
 
 ---
 
@@ -34,21 +33,20 @@ Building small projects to improve and figure things out as I go.
 
 These are a few small things I’ve worked on to practice what I’m learning:
 
-- 🔢 [YouTube Adview Prediction](link-here)  
+- 🔢 **YouTube Adview Prediction**  
   Machine Learning regression project to predict ad views using Python and scikit-learn
 
-- 🌦️ [AI Weather Assistant](link-here)  
+- 🌦️ **AI Weather Assistant**  
   Simple chatbot using Streamlit + Gemini API that gives weather updates
 
-- 🛠️ [One Stop Career Solution (WIP)](link-here)  
+- 🛠️ **One Stop Career Solution (WIP)**  
   Final year project combining job recommendations, AI resume tools, and more (under development)
 
 ---
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nidhisanni)  
-[Optional: Add Twitter/Wattpad if you want, or skip]
+[![LinkedIn](https://img.shields.io/badge/-nidhisanni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nidhisanni)
 
 ---
 
