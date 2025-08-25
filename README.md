@@ -39,9 +39,6 @@ These are a few small things I’ve worked on to practice what I’m learning:
 -  **AI Weather Assistant**  
   Simple chatbot using Streamlit + Gemini API that gives weather updates
 
--  **One Stop Career Solution (WIP)**  
-  Final year project combining job recommendations, AI resume tools, and more (under development)
-
 ---
 
 ###  Let's Connect
