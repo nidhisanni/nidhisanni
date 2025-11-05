@@ -5,6 +5,12 @@
   <i>Learning by building projects and exploring how AI can make life smarter.</i>
 </p>
 
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=nidhisanni&label=Profile%20Views&color=8A2BE2&style=flat" alt="nidhisanni" />
+</p>
+
+
 ---
 
 ### 🪶 About Me  
@@ -68,7 +74,7 @@
   <a href="mailto:nidhisanni49@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
   <a href="https://linkedin.com/in/nidhisanni"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
   <a href="https://github.com/isanni"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://nidhisanni.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://nidhisanni.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </p>
 
@@ -76,8 +82,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isanni&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isanni&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhisanni&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhisanni&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
