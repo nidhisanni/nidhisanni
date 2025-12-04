@@ -1,13 +1,12 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#a78bfa;">Nidhi Sanni</span></h1>
+<h1 align="center">👋 Hi, I'm Nidhi Sanni</h1>
 
 <p align="center">
-  <b>Final Year B.Tech CSE Student | Data Analytics • Machine Learning • Generative AI</b><br>
-  <i>Learning by building projects and exploring how AI can make life smarter.</i>
+  <b>ML & GenAI Enthusiast · Final Year B.Tech CSE</b><br>
+  Building simple, meaningful AI projects — one experiment at a time.
 </p>
 
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=nidhisanni&label=Profile%20Views&color=8A2BE2&style=flat" alt="nidhisanni" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nidhisanni&label=Profile%20Views&color=A78BFA&style=flat" />
 </p>
 
 
@@ -23,24 +22,42 @@
 ---
 
 ### ⚙️ Tech Stack (Core + Modern AI)
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Transformers-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+  <!-- LANGUAGES -->
+  <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=F7DF1E&labelColor=4B39D4&color=7F5AF0" />
+  <img src="https://img.shields.io/badge/-Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white&labelColor=4B39D4&color=6E44FF" />
+  <img src="https://img.shields.io/badge/-NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white&labelColor=4B39D4&color=8B5CF6" />
+  
+  <br/>
+
+  <!-- MACHINE LEARNING -->
+  <img src="https://img.shields.io/badge/-Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=ff9e00&color=F4A261" />
+  <img src="https://img.shields.io/badge/-Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=ff5a7a&color=FF4B4B" />
+  <img src="https://img.shields.io/badge/-PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=d7263d&color=F2545B" />
+  <img src="https://img.shields.io/badge/-TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=ff7b00&color=FF6F00" />
+
+  <br/>
+
+  <!-- GEN AI + NLP -->
+  <img src="https://img.shields.io/badge/-LangChain-0d1117?style=for-the-badge&logoColor=white&labelColor=3A86FF&color=3A0CA3" />
+  <img src="https://img.shields.io/badge/-HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=ffcc00&color=E3BB00" />
+  <img src="https://img.shields.io/badge/-Transformers-0d1117?style=for-the-badge&labelColor=9D4EDD&color=7B2CBF" />
+  <img src="https://img.shields.io/badge/-spaCy-0d1117?style=for-the-badge&logo=spacy&logoColor=09A3D5&labelColor=00a8cc&color=023047" />
+  <img src="https://img.shields.io/badge/-NLTK-0d1117?style=for-the-badge&labelColor=264653&color=2A9D8F" />
+
+  <br/>
+
+  <!-- TOOLS -->
+  <img src="https://img.shields.io/badge/-OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=6A00F4&color=3C096C" />
+  <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=1d3557&color=118AB2" />
+  <img src="https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=6A040F&color=D00000" />
+  <img src="https://img.shields.io/badge/-VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4&labelColor=14213D&color=4361EE" />
+
 </p>
+
+
 
 ---
 
@@ -82,9 +99,15 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhisanni&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhisanni&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nidhisanni&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nidhisanni&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nidhisanni&theme=tokyonight" />
+</p>
+
+
 
 ---
 
