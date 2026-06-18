@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nidhi Sanni</h1>
 
 <p align="center">
-  <b>ML & GenAI Enthusiast · Final Year B.Tech CSE</b><br>
+  <b>Software Developer | AI & ML Enthusiast</b><br>
   Building simple, meaningful AI projects — one experiment at a time.
 </p>
 
@@ -13,12 +13,12 @@
 ---
 
 ### 🪶 About Me  
-- 🎓 B.Tech CSE @ **Kaziranga University** (Graduating 2026)  
-- 🌱 Exploring **Data Analytics, Machine Learning, and Generative AI**  
-- 💡 Interested in **AI tooling, LangChain-driven RAG, Hugging Face models, and ML deployment**  
-- ✨ Motto: *“Learn, Build, Repeat.”*  
-- 🧠 Currently improving my **ML + GenAI** skills through hands-on projects.  
-
+- 🎓 B.Tech in Computer Science Engineering from Kaziranga University
+- 💻 Skilled in Python, Machine Learning, Data Analytics, and Generative AI
+- 🚀 Interested in Software Development, Backend Development, and AI-powered Applications
+- 🌱 Continuously learning through hands-on projects and problem solving
+- ✨ Motto: Learn. Build. Improve.
+  
 ---
 
 ### ⚙️ Tech Stack (Core + Modern AI)
@@ -63,24 +63,24 @@
 
 ### 🧩 Featured Projects  
 
-#### 🎬 [YouTube Adview Prediction](https://github.com/isanni/youtube-adview-prediction)
+#### 🎬 [YouTube Adview Prediction](https://github.com/nidhisanni/youtube-adview-prediction)
 > 🧠 Regression project predicting YouTube ad views using scikit-learn.  
 > Includes data cleaning, scaling, and comparison of Linear, SVR, Decision Tree & Random Forest models.  
 > *Demonstrates a full ML pipeline — from preprocessing to evaluation.*
 
-#### ☁️ [AI Weather Assistant](https://github.com/isanni/myaichatbot)
+#### ☁️ [AI Weather Assistant](https://github.com/nidhisanni/myaichatbot)
 > 🌦️ Streamlit-based chatbot integrated with GenAI APIs (Gemini / OpenAI) for conversational weather updates.  
 > Demonstrates **API integration**, prompt design, and UI development for GenAI apps.
 
-#### 🔗 [LangChain Chatbot / RAG Experiments](https://github.com/isanni/myaichatbot)
+#### 🔗 [LangChain Chatbot / RAG Experiments](https://github.com/nidhisanni/myaichatbot)
 > 🤖 Experimented with **LangChain-based retrieval-augmented generation (RAG)** flows.  
 > Combined document embeddings, vector stores, and LLM responses for contextual Q&A.
 
-#### 🚢 [Titanic ML Project](https://github.com/isanni/titanic-ml-project)
+#### 🚢 [Titanic ML Project](https://github.com/nidhisanni/titanic-ml-project)
 > 🚀 Classification model predicting passenger survival using Random Forest & Logistic Regression.  
 > Focuses on **data preprocessing, feature engineering**, and **visual insights.**
 
-#### 💳 [Fraud Detection ML](https://github.com/isanni/fraud-detection-ml)
+#### 💳 [Fraud Detection ML](https://github.com/nidhisanni/fraud-detection-ml)
 > 🔍 Detects fraudulent transactions using ML classification.  
 > Implemented **SMOTE for imbalanced data** and evaluated via **precision, recall & ROC-AUC.**
 
